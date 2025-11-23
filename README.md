@@ -6,6 +6,16 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 * Cuatrimestre: Segundo Cuatrimestre 2024
 * Grupo: M4
 
+## Trayecto Infraestructura
+* Año académico: Cuarto - Primer Cuatrimestre
+* Responsable / Jefe de catedra: Volker, Mariano Leonardo
+* Carga horaria semanal: 4 hs
+* Carga horaria total: 64 hs
+* Modalidad: Semipresencial
+* Correlativas anteriores:
+ + Paradigmas de Programación (3646)
+ + Sistemas Operativos (3649)
+
 ## Docentes
 * Adagio, Matías Ezequiel
 * Carnuccio, Esteban
