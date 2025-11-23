@@ -3,6 +3,8 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 
 [Repositorio de la Catedra](https://github.com/UNLAM-PROG-C/2024-PROGC-Q2-M4)
 
+* Carrera: Ingeniería en Informática
+* Asignatura: Programación Concurrente (3658)
 * Cuatrimestre: Segundo Cuatrimestre 2024
 * Grupo: M4
 
@@ -24,11 +26,11 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 * Volker, Mariano Leonardo
 
 ## Integrantes
-| Nombre | DNI |
-|--|--|
-| Antonioli, Iván Oscar | 43.630.151 |
-| Di Nicco, Luis Demetrio | 43.664.669 |
-| Sandoval Vasquez, Juan Leandro | 41.548.235 |
+| DNI | Apellido/s | Nombre/s |
+|--|--|--|
+| 43.630.151 | Antonioli | Iván Oscar | 
+| 43.664.669 | Di Nicco | Luis Demetrio |
+| 41.548.235 | Sandoval Vasquez | Juan Leandro |
 
 ## Links a Google Colab
 ### Trabajo Práctico 1
