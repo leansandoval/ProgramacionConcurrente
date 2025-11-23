@@ -13,8 +13,8 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 * Carga horaria total: 64 hs
 * Modalidad: Semipresencial
 * Correlativas anteriores:
- + Paradigmas de Programación (3646)
- + Sistemas Operativos (3649)
+  + Paradigmas de Programación (3646)
+  + Sistemas Operativos (3649)
 
 ## Docentes
 * Adagio, Matías Ezequiel
