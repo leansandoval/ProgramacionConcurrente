@@ -3,6 +3,7 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 
 [Repositorio de la Catedra](https://github.com/UNLAM-PROG-C/2024-PROGC-Q2-M4)
 
+## Información de la Asignatura
 * Carrera: Ingeniería en Informática
 * Asignatura: Programación Concurrente (3658)
 * Cuatrimestre: Segundo Cuatrimestre 2024
