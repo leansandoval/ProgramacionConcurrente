@@ -10,8 +10,8 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 * **Año**: 2024
 * **Grupo**: M4
 
-## Trayecto Infraestructura
-* **Año académico**: Cuarto - Primer Cuatrimestre
+## Trayecto - Infraestructura
+* **Año académico**: Cuarto Año - Primer Cuatrimestre
 * **Responsable / Jefe de catedra**: Volker, Mariano Leonardo
 * **Carga horaria semanal**: 4 hs
 * **Carga horaria total**: 64 hs
