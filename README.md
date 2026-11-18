@@ -36,13 +36,13 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 
 ## Unidad 1 - Programación Secuencial vs Programación Concurrente vs Programación Paralela
 
-![¿Qué es la Programación Concurrente?](https://website-assets.studocu.com/img/document_thumbnails/80acb00d35fa61ed568912a0df5d2d0a/thumb_1200_675.png)
+<img width="700" alt="¿Qué es la Programación Concurrente?" src="https://github.com/user-attachments/assets/1209fdfa-5b58-4a62-9b4f-f818a1f7d708" />
 
 ![Concurrencia vs Paralelismo](https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/777867722_1334263052063702_8825343952451446648_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2NTkwOTA1MDk1NDA1ODcyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIzMy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VLJE1cCr0AYQ7kNvwGYTSQu&_nc_oc=Adq7yTGnNFr3I5E2GW5KQ5ddiG8VxztOd7yeTC7qvlA44HTJcfDy3qVbzMHrfDyIwAv2UMOks0x9Pau3cycCfftc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=xjlPPLj6YjMs1ouJK05v7A&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQj_DmccBA8xE5cdG_FtKXeqOgKTc87Nnix8sEBSJqRYw&oe=6B001523)
 
-![Multiproceso](https://image.slidesharecdn.com/multiprocesoymultitarea-240614134322-8099b4c4/75/Multiproceso-Y-Multitarea-y-diferencia-entre-los-dos-pptx-2-2048.jpg)
+<img width="700" alt="Multiproceso" src="https://github.com/user-attachments/assets/1660a756-d630-47df-b4e5-93dbe8306464" />
 
-![Multitarea](https://image.slidesharecdn.com/multiprocesoymultitarea-240614134322-8099b4c4/75/Multiproceso-Y-Multitarea-y-diferencia-entre-los-dos-pptx-4-2048.jpg)
+<img width="700" alt="Multitarea" src="https://github.com/user-attachments/assets/48dc162e-f872-4980-9987-8d67b4da2487" />
 
 * Necesidad de la programación concurrente y paralela.
 * Arquitecturas de hardware que soportan la programación concurrente y paralela.
@@ -52,7 +52,7 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 
 ## Unidad 2 - Estructura de Procesos y Threads.
 
-![Diagrama PCB y TCB](https://ducmanhphan.github.io/img/multithread/multithreading-python.png)
+<img width="700" alt="Diagrama PCB y TCB" src="https://github.com/user-attachments/assets/9142e749-1842-48e9-a49d-c9ee78dc0c3b" />
 
 ![Ciclo de Vida de un Proceso](https://instagram.fepa1-1.fna.fbcdn.net/v/t39.30808-6/757147237_1316215287201812_7311770153056244492_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1MDUwNzc2MjM2MjY5MDUxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI0My5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XSxIAb7zoqkQ7kNvwG9ZqUq&_nc_oc=Ado60KF8KFVKDDsjZ2xBPUEhIjHqovzIDf4A7cRjYXoHMwLBPcPLxn2V4tfbcZhJQm-iifatg4U7bj1hTIGwPmLk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=BfwdSCjJgtr5S5Om8B9UJA&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSCwjbV73Payqsl7kz4n63WBFfzxzFjHDLv36Q2iJGkcw&oe=6B002869)
 
@@ -125,13 +125,13 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 
 ![CPU vs GPU - Diferencias](https://instagram.faep28-2.fna.fbcdn.net/v/t51.82787-15/731058960_18127140988725919_7517522955686019274_n.webp?_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=MzkzMDk5NzQxMjkxMDQ1MTI0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=n3T1FyplLVgQ7kNvwHmPHQ4&_nc_oc=AdpofCRzN2f4ZJRchUZ387pzqdbxg88V5DhkYzXYWie2-6SGRr0D57lPhYEGwzZX7O2UtvQmGyFT8s5GY7_43CAt&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=iSC-2gksuAImntb1dTnyYA&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQR3iZCcuxk2C2jeGrxCjS-ZZjmw73A1PZIySUobsVR4zA&oe=6B0041E5)
 
-![CPU vs GPU - Esquema](https://cvw.cac.cornell.edu/gpu-architecture/gpu-characteristics/ArchCPUGPUcores.png)
+<img width="700" alt="CPU vs GPU - Esquema" src="https://github.com/user-attachments/assets/4b0b60cd-66b7-4eb3-8278-9c6f6a62c3d8" />
 
 ![CUDA Core](https://gbaike-image.cdn.bcebos.com/5366d0160924ab1899dd1a1436fae6cd7a890bcd/5366d0160924ab1899dd1a1436fae6cd7a890bcd_url?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXJtYXJrL3dhdGVybWFyaw,t_60,g_7,xp_5,yp_2,P_20)
 
-![Bloques CUDA](https://blog.damavis.com/wp-content/uploads/2026/01/threads_blocks_grids_cuda_architecture.webp)
+<img width="700" alt="Bloques CUDA" src="https://github.com/user-attachments/assets/095798ba-81ca-495a-abb4-7eabb8f67827" />
 
-![Arquitectura OpenCL](https://w2.mat.ucsb.edu/594cm/2010/benalunjones-rp1/sl_opencl_architecture.png)
+<img width="700" alt="Arquitectura OpenCL" src="https://github.com/user-attachments/assets/85d93e34-483d-4a40-a99f-1e6be726ef63" />
 
 * Concepto de GP-GPU.
 * Filosofía CPU/GPU.
