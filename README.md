@@ -181,35 +181,35 @@ Repositorio de la catedra: [CATEDRA de PROGRAMACION CONCURRENTE UNLAM](https://g
 7. En el repositorio de la catedra te va a aparecer un mensaje similar a este, y tenés que hacer clic en `Compare & pull request`
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/84f13371-6ae0-4407-9df9-843e5f8cd827" alt="Compare & pull request"/>
+  <img width="700" alt="Compare & pull request" src="https://github.com/user-attachments/assets/9110bbb4-5e95-4af5-9db2-7b44d947ad37" />
 </p>
 
 8. Antes de crearlo, podes asignar los reviewers para que realicen comentarios sobre el código del PR
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4b24cb85-1f92-4169-bfe6-f412ae872203" alt="Assign reviewers"/>
+  <img width="700" alt="Assign reviewers" src="https://github.com/user-attachments/assets/33fdfaba-0caf-4ca3-9eb6-27652ef52dfd" />
 </p>
 
 9. Luego creamos el PR con `Create pull request`
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ad85a457-6d63-44ce-a4bd-375d89dc42dd" alt="Create pull request"/>
+  <img width="700" alt="Create pull request" src="https://github.com/user-attachments/assets/75ae0139-4a21-4aa1-a70b-e3504fa7069f" />
 </p>
 
 10. Después cuando se verifiquen los chequeos del Coding Standard debería habilitarse el botón `Merge pull request` y para finalizar ya podés eliminar la rama con `Delete branch`
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24505883/42899819-7c05a47a-8ac7-11e8-8be9-9e3888f1bedc.gif" alt="Merge pull request"/>
+  <img width="700" alt="Merge pull request" src="https://github.com/user-attachments/assets/95b52100-2525-4585-9ff7-25053a70960a" />
 </p>
 
 10.1 En caso de que alguno de los chequeos del Coding Standard no se aprueben, se debe cerrar el PR, realizar los cambios en el código de correcciones, es decir, repetir los pasos de 4 al 6, y luego reabrir el PR.
 
 <p align="center">
-  <img src="https://i.sstatic.net/IA4pH.png" alt="Close pull request"/>
+  <img width="700" alt="Close pull request" src="https://github.com/user-attachments/assets/bf7e3f76-6b76-4e7d-9f69-609954459fcd" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/35812641/192277071-e822eee6-e340-41a5-aafa-569f441bb65a.png" alt="Reopen pull request"/>
+  <img width="700" alt="Reopen pull request" src="https://github.com/user-attachments/assets/f05f2051-75c3-4ed6-a75c-036bff7d093c" />
 </p>
 
 11. *(OPCIONAL)* Para finalizar, en la terminal, te podés posicionar nuevamente en la rama de develop, (`git checkout develop`) y bajarte los cambios del PR con `git pull`
