@@ -38,7 +38,7 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 
 <img width="700" alt="¿Qué es la Programación Concurrente?" src="https://github.com/user-attachments/assets/1209fdfa-5b58-4a62-9b4f-f818a1f7d708" />
 
-![Concurrencia vs Paralelismo](https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/777867722_1334263052063702_8825343952451446648_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2NTkwOTA1MDk1NDA1ODcyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIzMy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VLJE1cCr0AYQ7kNvwGYTSQu&_nc_oc=Adq7yTGnNFr3I5E2GW5KQ5ddiG8VxztOd7yeTC7qvlA44HTJcfDy3qVbzMHrfDyIwAv2UMOks0x9Pau3cycCfftc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=xjlPPLj6YjMs1ouJK05v7A&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQj_DmccBA8xE5cdG_FtKXeqOgKTc87Nnix8sEBSJqRYw&oe=6B001523)
+<img width="700" alt="Concurrencia vs Paralelismo" src="https://github.com/user-attachments/assets/7b9bcb01-4cbb-4be1-84a8-88a75ca91051" />
 
 <img width="700" alt="Multiproceso" src="https://github.com/user-attachments/assets/1660a756-d630-47df-b4e5-93dbe8306464" />
 
@@ -52,15 +52,15 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 
 ## Unidad 2 - Estructura de Procesos y Threads.
 
-<img width="700" alt="Diagrama PCB y TCB" src="https://github.com/user-attachments/assets/9142e749-1842-48e9-a49d-c9ee78dc0c3b" />
+<img width="700" alt="Diagrama PCB y TCB" src="https://github.com/user-attachments/assets/403a57d9-77f9-4110-a920-f87bbaa59d41" />
 
-![Ciclo de Vida de un Proceso](https://instagram.fepa1-1.fna.fbcdn.net/v/t39.30808-6/757147237_1316215287201812_7311770153056244492_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1MDUwNzc2MjM2MjY5MDUxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI0My5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XSxIAb7zoqkQ7kNvwG9ZqUq&_nc_oc=Ado60KF8KFVKDDsjZ2xBPUEhIjHqovzIDf4A7cRjYXoHMwLBPcPLxn2V4tfbcZhJQm-iifatg4U7bj1hTIGwPmLk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=BfwdSCjJgtr5S5Om8B9UJA&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSCwjbV73Payqsl7kz4n63WBFfzxzFjHDLv36Q2iJGkcw&oe=6B002869)
+<img width="700" alt="Ciclo de Vida de un Proceso" src="https://github.com/user-attachments/assets/00d7ab82-7e64-43ce-bc0c-318f75a60744" />
 
-![Hilos](https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/714949254_122281541066189612_6530581940499800137_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkxNjUzMzk4Mjc3NDY5NjQ2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=urFe4uZI4usQ7kNvwGRJfNo&_nc_oc=AdpOhlAVnjmclFAIaO-nIX0jWM_zPvD21PvmPhcZbEI6TpkH1ZrLMuOIxGNZzt1F9LKIyORrQ2tBbUw8dEUsBpn5&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=LLeFPff_NDP8vokhHN331w&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSwh6r8-F5MeIkeQSqDx4JPRdBUYFGIhwoyx3J7BPjFgQ&oe=6B001BA2)
+<img width="700" alt="Hilos" src="https://github.com/user-attachments/assets/f5dbb5ab-e039-45f6-9444-da18c9c7efe4" />
 
-![Thread Pool](https://instagram.fepa1-1.fna.fbcdn.net/v/t39.30808-6/702326064_122278914482189612_5004793672014368232_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=MzkwMjgyMzQzNjcyNDc3NTI5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=KXL9vNOWFTMQ7kNvwHEX-T-&_nc_oc=AdoVKH8q06rFccNmJPXY5vavnc9AWOHK1pzFvXI2kJQn8D2EUUd0Q62ErR7wTyMHBexrBQ-RWPXkPQgE4BJw0rt_&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=u0uE_w1oRs4wgdwrr60x7g&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRJRq52I5ZN0TJHIZYxhktkcwzqa91WxH4Vcg5aQ-0SzQ&oe=6B00431F)
+<img width="700" alt="Thread Pool" src="https://github.com/user-attachments/assets/4deaab06-38a9-4697-b5e6-9a2da8bb053d" />
 
-![Multithreading](https://scontent.faep28-1.fna.fbcdn.net/v/t39.99422-6/861786314_29262922186678686_716351908631014262_n.png?stp=dst-jpg_tt6&cstp=mx1024x1536&ctp=s1024x1536&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFrgH9XMx9Lrj-RvNZQJwDP1zXAGtEStjDXNcAa0RK2MMp8rvI-q867wwfonellBp-t0eILQJAHm0sJCqt-pds7&_nc_ohc=KuWQLGxvAr4Q7kNvwGHr23H&_nc_oc=AdophSoZ_EQg3ko-wvXaXwFrbVM4-p2cvUQplW__P8vYS83rT4iejxOOpcLcvd8k5e9GkJIbRIHBbBEa14XsALt4&_nc_zt=14&_nc_ht=scontent.faep28-1.fna&_nc_gid=2b9-aCGiV5eynf8P4lDPMQ&_nc_ss=7b2a8&oh=00_AQSB2ypIyuaTuJbFRo7uTaossu_vExOUy9mJHkVu6M0vWw&oe=6B002AEB)
+<img width="700" alt="Multithreading" src="https://github.com/user-attachments/assets/35915022-e5c4-4ee3-b076-89241b704033" />
 
 * PCB
     * Ciclo de vida de un proceso.
@@ -123,11 +123,11 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 
 ## Unidad 6 - Introducción a GPU
 
-![CPU vs GPU - Diferencias](https://instagram.faep28-2.fna.fbcdn.net/v/t51.82787-15/731058960_18127140988725919_7517522955686019274_n.webp?_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=MzkzMDk5NzQxMjkxMDQ1MTI0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=n3T1FyplLVgQ7kNvwHmPHQ4&_nc_oc=AdpofCRzN2f4ZJRchUZ387pzqdbxg88V5DhkYzXYWie2-6SGRr0D57lPhYEGwzZX7O2UtvQmGyFT8s5GY7_43CAt&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=iSC-2gksuAImntb1dTnyYA&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQR3iZCcuxk2C2jeGrxCjS-ZZjmw73A1PZIySUobsVR4zA&oe=6B0041E5)
+<img width="700" alt="CPU vs GPU - Diferencias" src="https://github.com/user-attachments/assets/6095c29a-ce3d-4069-9a35-fac21e1b616e" />
 
 <img width="700" alt="CPU vs GPU - Esquema" src="https://github.com/user-attachments/assets/4b0b60cd-66b7-4eb3-8278-9c6f6a62c3d8" />
 
-![CUDA Core](https://gbaike-image.cdn.bcebos.com/5366d0160924ab1899dd1a1436fae6cd7a890bcd/5366d0160924ab1899dd1a1436fae6cd7a890bcd_url?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXJtYXJrL3dhdGVybWFyaw,t_60,g_7,xp_5,yp_2,P_20)
+<img width="700" alt="CUDA Core" src="https://github.com/user-attachments/assets/2f5f434d-5180-4109-bfdd-0722ccc12004" />
 
 <img width="700" alt="Bloques CUDA" src="https://github.com/user-attachments/assets/095798ba-81ca-495a-abb4-7eabb8f67827" />
 
