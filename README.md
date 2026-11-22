@@ -76,6 +76,11 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
     * Aplicaciones Multithreading.
 
 ## Unidad 3 - Distintos tipos de implementaciones
+
+<img width="700" alt="Concurrencia y Paralelismo" src="https://github.com/user-attachments/assets/a51f8c73-9a26-41e7-abae-f2966e7f85fd" />
+
+<img width="700" alt="Erlang - Lenguaje de Programación Concurrente" src="https://github.com/user-attachments/assets/cf01e4b5-712b-4c88-95d9-0d72d00e9725" />
+
 * Cómputo paralelo y distribuido.
 * Concurrencia y paralelismo.
 * Concurrencia HW y SW.
@@ -86,6 +91,7 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 * Lenguajes de programación concurrente.
 
 ## Unidad 4 - Interacción entre procesos
+
 <img width="700" alt="POSIX" src="https://github.com/user-attachments/assets/fccf963d-7574-494f-8087-5b658b1b8684" />
 
 <img width="700" alt="Deadlock" src="https://github.com/user-attachments/assets/46fc18d0-5848-4740-8f9a-239454b7927b" />
@@ -111,6 +117,11 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 * Solución de Peterson, Algoritmo de Dekker, Algoritmo de Lamport (panadería), Filósofos comensales.
 
 ## Unidad 5 - Arquitecturas Paralelas con Memoria y sin Memoria Compartida
+
+<img width="700" alt="Taxonomía de Flynn" src="https://github.com/user-attachments/assets/dbacef8a-f948-4143-89e1-b75d0c0fec96" />
+
+<img width="700" alt="OpenMP" src="https://github.com/user-attachments/assets/7b732e6c-f070-4eea-a154-4caf22e60537" />
+
 * Arquitecturas multiprocesador, multicore, multithread.
 * Historia.
 * Computación de altas prestaciones (HPC).
@@ -122,7 +133,7 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 * Modelo Híbrido.
 * Análisis de prestaciones.
 * Métricas, conceptos de speed up y eficiencia.
-* Ley de Amdahl
+* Ley de Amdahl.
 * Ley de Moore.
 
 ## Unidad 6 - Introducción a GPU
