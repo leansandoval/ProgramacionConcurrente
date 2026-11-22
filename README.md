@@ -109,7 +109,7 @@
 ## Unidad 2 - Estructura de Procesos y Threads
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/403a57d9-77f9-4110-a920-f87bbcb59d41" alt="Diagrama PCB y TCB" width="700" />
+  <img width="700" alt="Diagrama PCB y TCB" src="https://github.com/user-attachments/assets/63df4f88-d29d-4a91-a67e-53c1658b318e" />
   <br>
   <sup><em>Estructura de bloques de control: PCB (Procesos) y TCB (Hilos)</em></sup>
   <br><br>
