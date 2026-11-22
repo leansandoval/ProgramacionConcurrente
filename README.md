@@ -86,8 +86,12 @@ Repositorio donde se encuentran los ejercicios correspondientes a los trabajos p
 * Lenguajes de programación concurrente.
 
 ## Unidad 4 - Interacción entre procesos
+<img width="700" alt="POSIX" src="https://github.com/user-attachments/assets/fccf963d-7574-494f-8087-5b658b1b8684" />
+
+<img width="700" alt="Deadlock" src="https://github.com/user-attachments/assets/46fc18d0-5848-4740-8f9a-239454b7927b" />
+
 * IPC.
-* Posix.
+* POSIX.
 * Pipes.
 * Colas de mensajes.
 * Memoria Compartida.
